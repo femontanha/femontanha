@@ -9,3 +9,8 @@
 🐦 [Twitter](https://twitter.com/femontanha)<br>
 💼 [Linkedin](https://www.linkedin.com/in/femontanha)<br>
 📷 [Instagram](http://instagram.com/fellipeazambuja)<br>
+
+### FECHATAG episodes 🎤
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
