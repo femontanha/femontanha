@@ -13,9 +13,9 @@
 ### FECHATAG episodes 🎤
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvedor Fullstack, Pai e teclados com Diego Brocanelli](https://anchor.fm/fechatagpodcast/episodes/Desenvolvedor-Fullstack--Pai-e-teclados-com-Diego-Brocanelli-e19hjfn)
 - [Software Engineer na Runops, liberdade para trabalhar e bicicletas com Matheus Marsiglio](https://anchor.fm/fechatagpodcast/episodes/Software-Engineer-na-Runops--liberdade-para-trabalhar-e-bicicletas-com-Matheus-Marsiglio-e197g2o)
 - [Youtuber no @CódigoFonteTV, Home Office e Esportes com Vanessa Weber](https://anchor.fm/fechatagpodcast/episodes/Youtuber-no-CdigoFonteTV--Home-Office-e-Esportes-com-Vanessa-Weber-e18t36a)
 - [Software Engineer na Briza Canada, Livros e Café com Carolina Pascale](https://anchor.fm/fechatagpodcast/episodes/Software-Engineer-na-Briza-Canada--Livros-e-Caf-com-Carolina-Pascale-e18ii8m)
 - [Engenheira IOS Senior na Itaú, Viver de Freela e Games com Karol Attekita](https://anchor.fm/fechatagpodcast/episodes/Engenheira-IOS-Senior-na-Ita--Viver-de-Freela-e-Games-com-Karol-Attekita-e185l38)
-- [Desenvolvedor na Alemanha, Curso de Testes e Bike com Fábio Vedovelli](https://anchor.fm/fechatagpodcast/episodes/Desenvolvedor-na-Alemanha--Curso-de-Testes-e-Bike-com-Fbio-Vedovelli-e17scbg)
 <!-- BLOG-POST-LIST:END -->
