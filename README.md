@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FECHATAG podcast
-- 🌱 I’m currently learning about design better components
+- 🔭 I’m currently working as Engineer Manager on [Gupy](https://www.gupy.io/)
 - 📫 How to reach me: @femontanha
 
 ### femontanha social
